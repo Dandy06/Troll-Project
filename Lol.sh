@@ -1,3 +1,5 @@
 #!/bin/bash
 
-xdg-open crashsafari.com
+xdg-open http://clesolea.com/3gIs
+
+echo "Dont forget allow the notification."
